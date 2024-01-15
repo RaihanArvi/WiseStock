@@ -1,0 +1,42 @@
+{
+    "name": "Jokowi",
+    "id": 123456,
+    "stocks": [
+        {
+            "shares": 5000,
+            "ticker": "GOTO",
+            "capital": 5000000,
+            "owned": 1000,
+            "price": 0,
+            "dividend": 0,
+            "company": "Gojek Tokopedia"
+        },
+        {
+            "shares": 5000,
+            "ticker": "BSSR",
+            "capital": 1.0E7,
+            "owned": 2000,
+            "price": 0,
+            "dividend": 0.5,
+            "company": "Baramulti Minerals"
+        },
+        {
+            "shares": 5000,
+            "ticker": "PGEO",
+            "capital": 2500000,
+            "owned": 500,
+            "price": 0,
+            "dividend": 1,
+            "company": "Pertamina Geothermal"
+        },
+        {
+            "shares": 5000,
+            "ticker": "BBRI",
+            "capital": 1.0E8,
+            "owned": 100,
+            "price": 0,
+            "dividend": 0,
+            "company": "Bank of The Indonesian Republic"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Raihan",
+    "id": 65377822,
+    "stocks": [
+        {
+            "shares": 100000,
+            "ticker": "AMZN",
+            "capital": 4500000,
+            "owned": 1000,
+            "price": 60,
+            "dividend": 0.5,
+            "company": "Amazon Inc."
+        },
+        {
+            "shares": 100000,
+            "ticker": "AAPL",
+            "capital": 5000000,
+            "owned": 100,
+            "price": 50,
+            "dividend": 0,
+            "company": "Apple Inc."
+        },
+        {
+            "shares": 10000,
+            "ticker": "TSLA",
+            "capital": 2500000,
+            "owned": 500,
+            "price": 200,
+            "dividend": 1,
+            "company": "Tesla"
+        },
+        {
+            "shares": 100000,
+            "ticker": "MSFT",
+            "capital": 8000000,
+            "owned": 100,
+            "price": 120.5,
+            "dividend": 0,
+            "company": "Microsoft"
+        }
+    ]
+}

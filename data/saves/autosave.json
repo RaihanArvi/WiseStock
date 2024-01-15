@@ -1,0 +1,13 @@
+{
+    "name": "User",
+    "id": 123456,
+    "stocks": [{
+        "shares": 100,
+        "ticker": "AAPL",
+        "capital": 1000.5,
+        "owned": 100,
+        "price": 10.5,
+        "dividend": 100.5,
+        "company": "Apple"
+    }]
+}
