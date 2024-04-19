@@ -1,7 +1,10 @@
 # WiseStocks - Stock Analyzer
 
 ## What is WiseStocks?
-![Alt text](/data/images/splashscreen.jpg)
+<div style="text-align:center;">
+   ![Alt text](/data/images/splashscreen.jpg)
+</div>
+
 WiseStocks is a stock analyzer app helping stock investor making decision on analyzing the fundamental of stocks. 
 
 ## Who is WiseStocks for?
