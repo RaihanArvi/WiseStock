@@ -1,7 +1,9 @@
 # WiseStocks - Stock Analyzer
 
 ## What is WiseStocks?
-![Alt text](/data/images/splashscreen.jpg)
+<div style="text-align:center;">
+    <img src="/data/images/splashscreen.jpg" alt="WiseStock" width="500">
+</div>
 
 WiseStocks is a stock analyzer app helping stock investor making decision on analyzing the fundamental of stocks. 
 
@@ -9,14 +11,9 @@ WiseStocks is a stock analyzer app helping stock investor making decision on ana
 WiseStocks audience are stock investors and stock traders.
 
 <div style="text-align:center;">
-    <img src="/data/images/SS2.png" alt="Alt text" width="400">
-    <img src="/data/images/SS2.png" alt="Alt text" width="400">
+    <img src="/data/images/SS1.png" alt="Main Menu" width="400">
+    <img src="/data/images/SS2.png" alt="Adding a Stock" width="400">
 </div>
-
-![Alt text](/data/images/SS1.png)
-![Alt text](/data/images/SS2.png)
-
-
 
 ## Why?
 This project is interesting to me because of my interest in stock market. As an investor, I would like 
