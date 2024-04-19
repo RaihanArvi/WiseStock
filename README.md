@@ -8,6 +8,9 @@ WiseStocks is a stock analyzer app helping stock investor making decision on ana
 ## Who is WiseStocks for?
 WiseStocks audience are stock investors and stock traders.
 
+![Alt text](/data/images/SS1.png)
+![Alt text](/data/images/SS2.png)
+
 ## Why?
 This project is interesting to me because of my interest in stock market. As an investor, I would like 
 a platform to analyze my stocks.
