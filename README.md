@@ -1,4 +1,4 @@
-# WiseStocks - Stock Portfolio Management and Analyzer
+# WiseStocks - Stock Portfolio Manager and Analyzer
 
 ## What is WiseStocks?
 <div style="text-align:center;">
